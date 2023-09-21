@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "475265264677",
+    "project_id": "jobxenos-f8f03",
+    "storage_bucket": "jobxenos-f8f03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475265264677:android:31f47a85d3a02811f2e3cc",
+        "android_client_info": {
+          "package_name": "com.example.jobtimer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475265264677-p6gbb5t84p7s5kuom51dbhi4pt5ejup8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn9yC0eUa3IQTqtggRBOPQwITJnC4vKIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475265264677-p6gbb5t84p7s5kuom51dbhi4pt5ejup8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
